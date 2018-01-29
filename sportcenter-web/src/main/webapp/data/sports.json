@@ -1,0 +1,86 @@
+[{
+        "id": 1,
+        "name": "Natación",
+        "image": "http://www.inacua.com/wp-content/uploads/2017/05/cursos-natacion-adultos.jpg",
+        "description": "La natación es un deporte que consiste en el desplazamiento de una persona en el agua, sin que esta toque el suelo.​ Es regulado por la Federación Internacional de Natación.",
+        "sportcenter": {
+            "id": 1,
+            "name": "Centro deportivo Uniandes"
+        },
+        "trainers": [
+            {
+                "id": 1,
+                "name": "Jose Perez"
+            }
+        ],
+        "equipments": [
+            {
+                "id": 1,
+                "name": "Bañador"
+            },
+            {
+                "id": 2,
+                "name": "Gorro"
+            },
+            {
+                "id": 3,
+                "name": "Gafas"
+            }
+        ]
+    }, {
+        "id": 2,
+        "name": "Entrenamiento militar",
+        "image": "https://ejerciciosencasa.es/wp-content/uploads/2014/09/joint-indo-russian-military-training-exercise.jpg",
+        "description": "El entrenamiento es militar y tiene diferentes objetivos como la supervivencia, el uso de armas, el liderazgo o la defensa personal, entre otros. Esto no está relacionado con 'crossfit' ni nada de eso, porque la gente suele confundirlo. Sí hay un entrenamiento físico, pero bajo el esquema táctico",
+        "sportcenter": {
+            "id": 1,
+            "name": "Centro deportivo Uniandes"
+        },
+        "trainers": [
+            {
+                "id": 2,
+                "name": "Angie Gamba"
+            }
+        ],
+        "equipments": [
+            {
+                "id": 1,
+                "name": "Bosu"
+            },
+            {
+                "id": 2,
+                "name": "Pesas"
+            }
+        ]
+    },{
+        "id": 3,
+        "name": "Salsa",
+        "image": "https://media.timeout.com/images/103247147/image.jpg",
+        "description": "Salsa es género musical bailable resultante de la síntesis del son cubano, y otros géneros de música caribeña, con el jazz y otros ritmos estadounidenses. ",
+        "sportcenter": {
+            "id": 1,
+            "name": "Centro deportivo Uniandes"
+        },
+        "trainers": [
+            {
+                "id": 3,
+                "name": "Mauricio Torres"
+            }
+        ]
+    }, {
+        "id": 4,
+        "name": "Baloncesto",
+        "image": "https://statics.viralizalo.com/virs/2017/11/VIR_407520_30394_que_jugador_de_baloncesto_eres.jpg",
+        "isbn": "084007710-6",
+        "description": "Deporte que se practica, en una cancha rectangular, entre dos equipos de cinco jugadores que tratan de introducir el balón en la canasta contraria, que se encuentra a una altura de 3,05 m, valiéndose solo de las manos; los encestes valen uno, dos o tres puntos y gana el equipo que logra más puntos en los 40 minutos que dura el encuentro.",
+        "sportcenter": {
+            "id": 1,
+            "name": "Centro deportivo Uniandes"
+        },
+        "trainers": [
+            {
+                "id": 4,
+                "name": "Liliana Sánchez"
+            }
+        ]
+    } ]
